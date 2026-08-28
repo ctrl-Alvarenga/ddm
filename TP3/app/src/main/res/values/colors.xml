@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Brand: deep teal + warm apricot -->
+    <color name="brand_primary">#2D6A6D</color>
+    <color name="brand_on_primary">#FFFFFF</color>
+    <color name="brand_primary_container">#CFE8E4</color>
+    <color name="brand_on_primary_container">#0B3B3F</color>
+
+    <color name="brand_secondary">#F2A65A</color>
+    <color name="brand_on_secondary">#3D2200</color>
+    <color name="brand_secondary_container">#FFE2C2</color>
+    <color name="brand_on_secondary_container">#4A2800</color>
+
+    <color name="brand_background">#FAF9F6</color>
+    <color name="brand_surface">#FFFFFF</color>
+    <color name="brand_surface_variant">#E7E5E1</color>
+    <color name="brand_on_surface">#1C1B1F</color>
+    <color name="brand_on_surface_variant">#48454E</color>
+    <color name="brand_outline">#D8D5CF</color>
+
+    <!-- Classificação do IMC -->
+    <color name="imc_abaixo_bg">#DCEBFA</color>
+    <color name="imc_abaixo_fg">#0B5394</color>
+    <color name="imc_ideal_bg">#DFF3E3</color>
+    <color name="imc_ideal_fg">#1B7A3B</color>
+    <color name="imc_sobrepeso_bg">#FDECD0</color>
+    <color name="imc_sobrepeso_fg">#B0650E</color>
+    <color name="imc_obesidade_bg">#FADCDA</color>
+    <color name="imc_obesidade_fg">#B3261E</color>
+</resources>

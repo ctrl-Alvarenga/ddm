@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">TP03 - Exercícios 2 e 3</string>
+
+    <!-- Comum -->
+    <string name="btn_voltar">Voltar</string>
+
+    <!-- Home -->
+    <string name="title_home">TP03</string>
+    <string name="subtitle_home">Exercícios 2 e 3</string>
+    <string name="icon_home">🎓</string>
+    <string name="btn_cadastro_alunos">Cadastro de Alunos</string>
+    <string name="desc_cadastro_alunos">Gerar matrícula e salvar aluno</string>
+    <string name="icon_cadastro_alunos">📋</string>
+    <string name="btn_calculadora_imc">Calculadora de IMC</string>
+    <string name="desc_calculadora_imc">Calcule seu índice de massa corporal</string>
+    <string name="icon_calculadora_imc">⚖️</string>
+
+    <!-- Exercício 2: Cadastro de Alunos (DAO) -->
+    <string name="title_cadastro_aluno">Cadastro de Aluno</string>
+    <string name="subtitle_cadastro_aluno">Informe o nome para gerar a matrícula</string>
+    <string name="hint_nome_aluno">Nome do aluno</string>
+    <string name="btn_continuar">Continuar</string>
+    <string name="error_nome_vazio">Digite o nome do aluno</string>
+
+    <string name="title_matricula_aluno">Matrícula do Aluno</string>
+    <string name="subtitle_matricula_aluno">Gere uma matrícula única para o aluno</string>
+    <string name="label_nome">Nome</string>
+    <string name="label_matricula">Matrícula</string>
+    <string name="matricula_placeholder">—</string>
+    <string name="btn_gerar_matricula">Gerar Matrícula</string>
+
+    <!-- Exercício 3: Calculadora de IMC -->
+    <string name="title_calculadora_imc">Calculadora de IMC</string>
+    <string name="subtitle_calculadora_imc">Informe seu peso e altura</string>
+    <string name="hint_peso">Peso (kg)</string>
+    <string name="placeholder_peso">Ex: 70</string>
+    <string name="hint_altura">Altura (m)</string>
+    <string name="placeholder_altura">Ex: 1,75</string>
+    <string name="helper_altura">Use metros, ex: 1,75</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="error_campos_imc_invalidos">Digite peso e altura válidos</string>
+    <string name="error_altura_em_metros">A altura deve estar em metros (ex: 1,75), não em centímetros</string>
+
+    <string name="title_resultado_imc">Resultado do IMC</string>
+    <string name="label_imc">Seu IMC</string>
+    <string name="imc_abaixo_peso">Abaixo do peso</string>
+    <string name="imc_peso_ideal">Peso ideal</string>
+    <string name="imc_sobrepeso">Sobrepeso</string>
+    <string name="imc_obesidade">Obesidade</string>
+</resources>
