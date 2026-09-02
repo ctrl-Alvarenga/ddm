@@ -3,13 +3,21 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.tp2_tela_livros"
+=======
+    namespace = "br.unisanta.meuapp"
+>>>>>>> b7e5c6fcb3c9759328a5273941d5d01611cb717c
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
+<<<<<<< HEAD
         applicationId = "com.example.tp2_tela_livros"
+=======
+        applicationId = "br.unisanta.meuapp"
+>>>>>>> b7e5c6fcb3c9759328a5273941d5d01611cb717c
         minSdk = 24
         targetSdk = 37
         versionCode = 1

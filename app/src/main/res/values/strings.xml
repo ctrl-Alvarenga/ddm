@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">Tp2_tela-livros</string>
+=======
+    <string name="app_name">MeuApp</string>
+>>>>>>> b7e5c6fcb3c9759328a5273941d5d01611cb717c
 </resources>

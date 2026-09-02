@@ -22,5 +22,11 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "Tp2_tela-livros"
 include(":app")
+=======
+rootProject.name = "MeuApp"
+include(":app")
+ 
+>>>>>>> b7e5c6fcb3c9759328a5273941d5d01611cb717c
