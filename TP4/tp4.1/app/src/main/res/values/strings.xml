@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Meus Filmes Favoritos</string>
+    <string name="action_view_as_grid">Ver em Grade</string>
+    <string name="action_view_as_list">Ver em Lista</string>
+</resources>
