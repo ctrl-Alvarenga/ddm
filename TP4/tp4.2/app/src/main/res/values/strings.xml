@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">registrodetarefas</string>
+    <string name="fab_add_task_description">Adicionar tarefa</string>
+    <string name="dialog_add_task_title">Nova tarefa</string>
+    <string name="hint_task_name">Nome da tarefa</string>
+    <string name="hint_task_description">Descrição</string>
+    <string name="action_save">Salvar</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="error_empty_fields">Preencha nome e descrição</string>
+    <string name="btn_mark_done">Concluir</string>
+    <string name="btn_mark_pending">Desfazer</string>
+</resources>
